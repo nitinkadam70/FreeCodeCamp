@@ -1,4 +1,4 @@
-# FreeCodeCamp
+# FreeCodeCamp - Assignment
 
 1. Cat Photos - https://cat-photos-fcc.netlify.app/
 2. Cafe Menu - https://cafe-menu-fcc.netlify.app/
